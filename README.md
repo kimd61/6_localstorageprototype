@@ -1,6 +1,6 @@
 <h1>prototype 5: anime catalog list (top 5 only) with save animes page </h1>
 <p>a simple web application that allows users to search for anime titles and view details of each anime.</p>
-<img src="detailspage.png"></img>
+<img src="5_localStorage.png"></img>
 
 <h2>features</h2>
 <ul>
